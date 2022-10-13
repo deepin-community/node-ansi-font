@@ -1,0 +1,20 @@
+node-ansi-font (0.0.2-2) unstable; urgency=medium
+
+  * Team upload
+  * Declare compliance with policy 4.5.0
+  * Bump debhelper compatibility level to 12
+  * Update VCS fields to salsa
+  * Use pkg-js-tools auto install
+  * Add "Rules-Requires-Root: no"
+  * Change section to javascript
+  * Add debian/gbp.conf
+  * Add upstream/metadata
+  * Add Berne Convention comment
+
+ -- Xavier Guimard <yadd@debian.org>  Thu, 19 Mar 2020 19:01:29 +0100
+
+node-ansi-font (0.0.2-1) unstable; urgency=low
+
+  * Initial release (Closes: #840713)
+
+ -- Sruthi Chandran <srud@disroot.org>  Fri, 14 Oct 2016 11:37:55 +0530
